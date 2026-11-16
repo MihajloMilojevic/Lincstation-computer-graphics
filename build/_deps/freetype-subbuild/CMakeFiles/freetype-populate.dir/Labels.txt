@@ -1,0 +1,14 @@
+# Target labels
+ freetype-populate
+# Source files and their labels
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test.rule
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update.rule

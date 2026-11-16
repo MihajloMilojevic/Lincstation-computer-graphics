@@ -1,0 +1,3 @@
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate.dir
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/CMakeFiles/edit_cache.dir
+/home/mihajlo/Mihajlo/Projekti/Grafika-2D/Lincstation/build/_deps/freetype-subbuild/CMakeFiles/rebuild_cache.dir

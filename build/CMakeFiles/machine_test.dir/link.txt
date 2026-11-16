@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/machine_test.dir/link.d CMakeFiles/machine_test.dir/tests/machine_test.cpp.o CMakeFiles/machine_test.dir/src/model/Machine.cpp.o CMakeFiles/machine_test.dir/src/model/Cashier.cpp.o -o machine_test
