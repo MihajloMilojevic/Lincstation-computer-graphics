@@ -16,7 +16,7 @@ Linux: potrebni X11 dev paketi (Arch: `libxrandr libxinerama libxcursor libxi`).
 ## Ime, prezime, indeks (overlay)
 
 ```
-python3 tools/make_assets.py --name Mihajlo --surname Milojević --index "SV 00/2024"
+python3 tools/make_assets.py --name Mihajlo --surname Milojević --index "SV 57/2023"
 ```
 (traži Pillow; ponovo generiše i kursore). Zatim ponovi build.
 
